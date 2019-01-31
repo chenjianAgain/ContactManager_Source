@@ -1,5 +1,6 @@
 {
   "name": "contactmanager",
+  "homepage": "https://chenjianagain.github.io/ContactManager_Destination", 
   "version": "0.1.0",
   "private": true,
   "dependencies": {
